@@ -1,4 +1,6 @@
 # WebBrowserPassView-plugin
+![webbrowserpassview-icon](https://user-images.githubusercontent.com/43011806/46359326-b0865d80-c671-11e8-85b7-043be5353632.png)
+
 This plugine made for Green Force soft on your USB stealer
 
 To start:
