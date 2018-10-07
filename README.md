@@ -3,7 +3,13 @@
 
 This plugin made for Green Force soft on your USB stealer.
 
-This plugin made for Green force mini.
+This plugin independed and can work without any library and codes!
+
+This plugin made for Green force USB mini.
+
+This is fastely way to hack passwords!
+
+![img_4617](https://user-images.githubusercontent.com/43011806/46586686-9f32bc00-ca8a-11e8-8288-399ca15d9aba.JPG)
 
 To start:
 
