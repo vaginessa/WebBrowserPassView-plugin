@@ -17,10 +17,10 @@ To start:
 
 > And put it on your Green Force USB.
 
-(in this plugin is WebBrowserPassView program)
+(in this plugin is WebBrowserPassView programm)
 
 How to activate this programm:
 
-> open WebBrowserPassView on victim's computer from USB.
+> open WebBrowserPassView on victim's computer from USB and tap the button in this programm "Save selected items".
 
 And you will have passwords and usernames from other sites!
