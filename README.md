@@ -54,4 +54,8 @@ Run commands in mimikatz:
 
 > mimikatz # sekurlsa::logonpasswords
 
+more:
+
+> https://github.com/entynetproject/green-force-mimikatz
+
 And you will have user passwords!
