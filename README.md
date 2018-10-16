@@ -6,8 +6,6 @@
 
 > This plugin independed and can work without any library and codes!
 
-> This plugin made for Green force USB mini.
-
 > This is fastely way to hack passwords!
 
 This is WebBrowserPassView:
